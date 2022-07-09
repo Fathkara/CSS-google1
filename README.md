@@ -1,1 +1,1 @@
-# CSS-google1
+# Öğrendiğim css bilgileri ile google ilk halini tasarladım.
